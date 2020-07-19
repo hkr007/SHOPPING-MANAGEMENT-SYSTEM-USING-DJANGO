@@ -1,2 +1,2 @@
-# crash-course-CRM
-Django customer management platform
+Django customer shopping system
+
